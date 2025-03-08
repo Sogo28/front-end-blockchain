@@ -1,4 +1,4 @@
-Installation
+# Installation
 
 Cloner le dépôt
 
@@ -7,13 +7,13 @@ Cloner le dépôt
       cd front-end-blockchain
    ```
 
-# Installer les dépendances
+## Installer les dépendances
 
   ```bash
   npm install
   ```
 
-Démarrer le serveur de développement
+## Démarrer le serveur de développement
 ```bash
   npm run dev
   ```
